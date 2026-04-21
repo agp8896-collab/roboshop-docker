@@ -4,6 +4,6 @@ services:
     container_name: mongodb
 networks:
   default:
-     driver: bridge
-     name: roboshop
-     external: false 
+    driver: bridge
+    name: roboshop
+    external: false 
